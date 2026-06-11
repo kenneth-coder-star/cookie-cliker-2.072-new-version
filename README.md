@@ -1,6 +1,10 @@
 # 🍪 Cookie Clicker 2.072
 
 Cookie Clicker 2.072 is the newest version of my idle clicker game where you click cookies, buy upgrades, unlock powerful generators, and grow your cookie empire to unbelievable numbers.
+## hellpers
+_ Cookie (4) (2).zip is the modded version 
+ cookie mormal 1 is normal version no moded
+ 
 ## big uptate
 each month y will be upgrading the version
 started 2.048
