@@ -2,6 +2,8 @@
 
 Cookie Clicker 2.072 is the newest version of my idle clicker game where you click cookies, buy upgrades, unlock powerful generators, and grow your cookie empire to unbelievable numbers.
 ## uptates 
+- change name cursor to mouse
+- added end portal before prims the image will not load only however is will show is bught pr if see info
 - the zip will be uptated but will be same version
 - each upate better and better
 - y did this to make you happy
