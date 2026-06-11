@@ -1,7 +1,7 @@
 # 🍪 Cookie Clicker 2.072
 Cookie Clicker 2.072 is the newest version of my idle clicker game where you click cookies, buy upgrades, unlock powerful generators, and grow your cookie empire to unbelievable numbers.
-## browser right now play your browser
-- we added a new zip files to run in browser whit no replit import or any app just fing the index.html theres multiple but is the starting point when enter the file there index.html open it and done what files it it
+## browser right now play in  your browser
+- we added a new zip files to run in browser whit no replit import or any app just find the index.html theres multiple but is the starting point when enter the file there index.html open it and what file is it 
 - cookie_clicker_v2072 (1).zip
 - open index.html 
 ## hellpers
