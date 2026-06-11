@@ -1,7 +1,15 @@
 # 🍪 Cookie Clicker 2.072
 
 Cookie Clicker 2.072 is the newest version of my idle clicker game where you click cookies, buy upgrades, unlock powerful generators, and grow your cookie empire to unbelievable numbers.
-
+## how to run 
+- you can import it to a app like
+- replit.com
+- lovable.dev is possible
+- and some other more 
+### bugs
+- the files was 109 mb but are team use a custom shell to slow it down to 11 mb
+- the files is still 2.072 even when still lowering the raw file
+- thanks for are team we lowered it to 11 mb 
 ## 🎮 Features
 
 - Improved cookie graphics
