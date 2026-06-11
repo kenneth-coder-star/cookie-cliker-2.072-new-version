@@ -37,7 +37,11 @@ now 2.072
 - you can import it to a app like
 - replit.com
 - lovable.dev is possible
-- and some other more 
+- and some other more
+- ## new news
+- now you dont need to import now you cn download this file
+- cookie_clicker_v2072 (1).zip
+- and open index.html
 ### bugs
 - the files was 109 mb but are team use a custom shell to slow it down to 11 mb
 - the files is still 2.072 even when still lowering the raw file
