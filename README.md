@@ -1,6 +1,20 @@
 # 🍪 Cookie Clicker 2.072
 
 Cookie Clicker 2.072 is the newest version of my idle clicker game where you click cookies, buy upgrades, unlock powerful generators, and grow your cookie empire to unbelievable numbers.
+## image 
+- <img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/f3348e7d-e08d-4796-b157-08b09e99b793" />
+
+## did you like it
+- we added modded botton click to enter need a password the password is
+- newversion no spaces
+- theres you can add
+- add cookies
+- remove cookies
+- give prestige level
+- give heavenly chips
+- give all achivements
+- give all milks
+- hard reset 
 ## how to run 
 - you can import it to a app like
 - replit.com
