@@ -1,3 +1,12 @@
+## another news page 
+- for early acess we added new buildings and achivements
+- The Void
+- achivements The Void gives 2x money the VIOD IS 2X cheaper
+- heavenly upgrades the void master gives doubke the money plus golden cookies last 10 percent longer
+  
+## fathers day 
+- early acess to version 2,089 becuase for father day coming june 21
+- my birthday is in june 19 that why only available 2 months 
 # 🍪 Cookie Clicker 2.072
 Cookie Clicker 2.072 is the newest version of my idle clicker game where you click cookies, buy upgrades, unlock powerful generators, and grow your cookie empire to unbelievable numbers.
 ## browser right now play in  your browser
